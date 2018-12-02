@@ -1,3 +1,3 @@
-# My little FizzBuzz
+# My little FizzBuzz [![Build Status](https://travis-ci.com/gysevvlad/app.svg?branch=master)](https://travis-ci.com/gysevvlad/app)
 
 To be, or not to be...
